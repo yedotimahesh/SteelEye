@@ -1,0 +1,9 @@
+
+
+{
+    "url": "https://www.iso20022.org/sites/default/files/ISO10383_MIC/ISO10383_MIC.xls",
+    "bucket_name": "steeleye-sachin",
+    "retun_url_bool": false,
+    "return_url": "https://s3-ap-southeast-1.amazonaws.com/steeleye-sachin/{}",
+    "sheet_name": "MICs List by CC"
+}
